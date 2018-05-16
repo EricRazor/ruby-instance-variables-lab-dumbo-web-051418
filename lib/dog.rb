@@ -8,6 +8,6 @@ class Dog
   end
   
   lassie = Dog.new
-  lassie = lassie.name
+  lassie.name = "Lassie"
   
 end
