@@ -7,5 +7,6 @@ class Dog
     this_dogs_name
   end
   
-  lassie
+  lassie = Dog.new
+  
 end
